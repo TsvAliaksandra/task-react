@@ -1,0 +1,41 @@
+.main {
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial;
+    height: 450px;
+}
+
+.inputText {
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    width: 250px;
+}
+
+.btn {
+    position: relative;
+    top: 30px;
+    right: 20px;
+}
+
+.successMsg {
+    position: relative;
+    left: 100px;
+    text-align: center;
+    top: 500px;
+    width: 300px;
+    color: green;
+}
+
+.form {
+    position: relative;
+    left: 15%;
+    float: left;
+    top: 25%;
+}
+
+.map {
+    position: relative;
+    float: right;
+    right: 5%;
+}
